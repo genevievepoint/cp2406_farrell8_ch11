@@ -9,7 +9,7 @@ public class DebugEleven2
       DebugOceanLiner bigBoat = new DebugOceanLiner();
       ref[0] = redBoat;
       ref[1] = blueBoat;
-      ref[1] = bigBoat;
+      ref[2] = bigBoat;
       for(int x = 0; x < ref.length; ++x)
       {
          ref[x].setPassengers();
